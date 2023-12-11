@@ -1,0 +1,4 @@
+enum HomeBottomBarState {
+  home,
+  leaderboard
+}
